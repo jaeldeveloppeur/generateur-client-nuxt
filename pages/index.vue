@@ -6,10 +6,11 @@
 
 <script>
 import formulaire from '~/components/formulaire.vue'
+import tableau from '~/components/tableau.vue'
 
 export default {
   components: {
-    formulaire
+    formulaire,
   }
 }
 </script>
